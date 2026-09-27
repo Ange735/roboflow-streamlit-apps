@@ -1,0 +1,6 @@
+streamlit>=1.32.0
+roboflow
+Pillow>=10.0.0
+numpy>=1.24.0
+pandas
+opencv-python-headless>=4.8.0
